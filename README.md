@@ -1,7 +1,8 @@
-### Hi there 👋
-
-<!--
-**Artori0s/Artori0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/L59aKIC2MFyfUfrz3n/giphy.gif" width="200" />
+    <h1 align="center"> Hi 👋, I´m Arturo</h1>
+    <h3 aling="center">A professional focused on product, data science, blockchain, and agriculture, 
+        passionate about the world of technology, a lover of self-taught learning, and a fan of continuous improvement.</h3>
 
 Here are some ideas to get you started:
 
