@@ -4,7 +4,7 @@
             <h3 aling="center">A professional focused on product, data science, blockchain, digital marketing, and agriculture, 
                 passionate about the world of technology, a lover of self-taught learning, and a fan of continuous improvement.</h3>
 ---
-###About me
+About me
 
 - 🔭 I’m currently working on Smart Contracts Audit
 - 🌱 I’m currently learning SEO (Search Engine Optimization)
