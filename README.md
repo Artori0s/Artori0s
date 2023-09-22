@@ -13,3 +13,23 @@
 - 💬 Ask me about Web3 and Solidity, Blockchain, Agriculture, Data Science, and Python.
       <div id="header" align="left">
 - 📫 How to reach me: artvroandrade@gmail.com
+
+<div aling="left">
+            <h3> 🛠️ Languages and Tools</h3>
+        </div>
+             <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" title="Solidity"
+             width="40" height="40"/>&nbsp;
+             <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"
+             width="40" height="40"/>&nbsp;
+             <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code"
+             width="40" height="40"/>&nbsp;
+             <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"
+             width="40" height="40"/>&nbsp;
+             <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda"
+             width="40" height="40"/>&nbsp;
+             <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_hardhat.svg" title="Hardhat"
+             width="40" height="40"/>&nbsp;
+             <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" title="Truffle"
+             width="40" height="40"/>&nbsp;
+
+
