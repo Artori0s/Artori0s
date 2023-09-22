@@ -3,7 +3,7 @@
             <h1 align="center"> Hi 👋, I´m Arturo</h1>
             <h3 aling="center">A professional focused on product, data science, blockchain, digital marketing, and agriculture, 
                 passionate about the world of technology, a lover of self-taught learning, and a fan of continuous improvement.</h3>
----
+
 About me
 
 - 🔭 I’m currently working on Smart Contracts Audit
