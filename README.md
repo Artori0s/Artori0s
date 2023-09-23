@@ -40,4 +40,7 @@
              <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jupyter.svg" title="Jupyter"
              width="40" height="40"/>&nbsp;
 
+---
+### 📈 My Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arturo&theme=merko)](https://git.io/streak-stats)
