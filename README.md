@@ -1,6 +1,7 @@
  <div id="header" align="center">
             <img src="https://media.giphy.com/media/L59aKIC2MFyfUfrz3n/giphy.gif" width="200" />
-            <h1 align="center"> Hi 👋, I´m Arturo</h1>
+            <h1 align="center"> <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/icon/eth.png" title="Eth"
+             width="40" height="40"/>&nbsp;Hi 👋, I´m Arturo</h1>
             <h3 aling="center">A professional focused on product, data science, blockchain, digital marketing, and agriculture, 
                 passionate about the world of technology, a lover of self-taught learning, and a fan of continuous improvement.</h3>
 
@@ -30,6 +31,8 @@
              <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_hardhat.svg" title="Hardhat"
              width="40" height="40"/>&nbsp;
              <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" title="Truffle"
+             width="40" height="40"/>&nbsp;
+             <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jupyter.svg" title="Jupyter"
              width="40" height="40"/>&nbsp;
 
 
