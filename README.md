@@ -44,3 +44,5 @@
 ### 📈 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arturo&theme=merko)](https://git.io/streak-stats)
+
+![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
