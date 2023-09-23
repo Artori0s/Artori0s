@@ -45,4 +45,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arturo&theme=merko)](https://git.io/streak-stats)
 
-![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artori0s&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artori0s&langs_count=8)
